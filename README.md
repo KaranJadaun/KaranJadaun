@@ -10,7 +10,7 @@
    </head>
    <body>
       <br>
-      <a href="https://www.linkedin.com/in/frcihan/">
+      <a href="https://www.linkedin.com/in/karan-jadaun-70154b202/">
          <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
          width=150" height="35">
       </a>
