@@ -30,6 +30,20 @@
       </a>
    </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+   <head>
+   </head>
+   <body>
+      <br>
+      <a href="https://www.codechef.com/users/karanjadaun22">
+         <img alt="Codechef" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png"
+         width=100" height="100">
+      </a>
+   </body>
+</html>
+
                                
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 
