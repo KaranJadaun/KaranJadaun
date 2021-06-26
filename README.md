@@ -3,10 +3,18 @@
 
 ## Hello Guys 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranJadaun" alt="KaranJadaun" /> </p>
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-jadaun-70154b202/)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Karan_jadaun__)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-jadaun-70154b202/)
-
+<!DOCTYPE html>
+<html>
+   <head>
+   </head>
+   <body>
+      <br>
+      <a href="https://www.linkedin.com/in/frcihan/">
+         <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+         width=150" height="35">
+      </a>
+   </body>
+</html>
 
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 
