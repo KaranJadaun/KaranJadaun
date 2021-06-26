@@ -3,6 +3,7 @@
 
 ## Hello Guys 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranJadaun" alt="KaranJadaun" /> </p>
+
 <!DOCTYPE html>
 <html>
    <head>
@@ -16,6 +17,20 @@
    </body>
 </html>
 
+
+<!DOCTYPE html>
+<html>
+   <head>
+   </head>
+   <body>
+      <br>
+      <a href="https://twitter.com/Karan_jadaun__">
+         <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
+         width=150" height="35">
+      </a>
+   </body>
+</html>
+                               
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 
 
