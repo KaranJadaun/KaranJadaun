@@ -65,6 +65,6 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I have a basic knowledge of ( Python | Java | C++ | Numpy ).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I read book in extra time.
+- ⚡ Fun fact: I read books in extra time.
 
 Thank you
