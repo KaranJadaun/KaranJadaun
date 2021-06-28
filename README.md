@@ -39,12 +39,24 @@
       <br>
       <a href="https://www.codechef.com/users/karanjadaun22">
          <img alt="Codechef" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png"
-         width=100" height="100">
+         width=80" height="80">
       </a>
    </body>
 </html>
 
-                               
+<!DOCTYPE html>
+<html>
+   <head>
+   </head>
+   <body>
+      <br>
+      <a href="https://codeforces.com/profile/karanjadaun22">
+         <img alt="Codeforces" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png"
+         width=150" height="35">
+      </a>
+   </body>
+</html>
+                              
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 
 
