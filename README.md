@@ -60,7 +60,7 @@
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 
 
-- 🔭 I’m currently in 1st year (B.TECH), NIET, Greater Noida.
+- 🔭 I’m currently in 2nd year (B.TECH), NIET, Greater Noida.
 - 🌱 I’m currently learning mobile app development. 
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I have a basic knowledge of ( Python | Java | C++ | Numpy ).
