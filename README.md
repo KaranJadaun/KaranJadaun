@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=KaranJadaun&show_icons=true&theme=tokyonight" align='right' width="55%">
 
 
-## Hello, I'm Jaran Jadaun 👋
+## Hello, I'm Karan Jadaun 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranJadaun" alt="KaranJadaun" /> </p>
 
 
@@ -58,27 +58,14 @@
       </a>
    </body>
 </html>
-
-<!DOCTYPE html>
-<html>
-   <head>
-   </head>
-   <body>
-      <br>
-      <a href="https://codeforces.com/profile/karanjadaun22">
-         <img alt="Codeforces" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png"
-         width=100" height="27">
-      </a>
-   </body>
-</html>
-                              
+                       
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 
 
 - 🔭 I’m currently in 2nd year (B.TECH), NIET, Greater Noida.
 - 🌱 I’m currently learning mobile app development. 
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I have a basic knowledge of ( Python | Java | C++ | Numpy ).
+- 🤔 I have a basic knowledge of ( Python | Java | MySQL | Numpy ).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I read books in extra time.
 
