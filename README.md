@@ -2,6 +2,7 @@
 
 
 ## Hello, I'm Karan Jadaun 👋
+## Sophomore at NIET
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranJadaun" alt="KaranJadaun" /> </p>
 
 
