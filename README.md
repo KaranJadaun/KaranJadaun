@@ -1,8 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=KaranJadaun&show_icons=true&theme=tokyonight" align='right' width="55%">
 
 
-## Hello, I'm Karan Jadaun 👋
-## Sophomore at NIET
+## Hello, I'm Karan Jadaun
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranJadaun" alt="KaranJadaun" /> </p>
 
 
