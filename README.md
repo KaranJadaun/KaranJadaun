@@ -59,6 +59,9 @@
       </a>
    </body>
 </html>
+
+
+  [![Karan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KaranJadaun&theme=xcode)](https://git.io/KaranJadaun)
                        
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 
