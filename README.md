@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranJadaun" alt="KaranJadaun" /> </p>
 
 ### Hello Fellas, You can follow my social handles from down below :-)
-LeetCode -> https://www.leetcode.com/karanjadaun22
-LinkedIn -> https://www.linkedin.com/in/karan-jadaun/
+LeetCode -> https://www.leetcode.com/karanjadaun22 <br>
+LinkedIn -> https://www.linkedin.com/in/karan-jadaun/ <br>
 Codechef -> https://www.codechef.com/users/karanjadaun22
                                
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJadaun&layout=compact&text_color=daf7dc&bg_color=151515" align='right' width="35%">
