@@ -39,8 +39,8 @@
    </head>
    <body>
       <br>
-      <a href="https://www.instagram.com/karan_jadaun__">
-         <img alt="Codechef" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"
+      <a href="https://www.leetcode.com/karanjadaun22">
+         <img alt="LeetCode" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256"
          width=55" height="55">
       </a>
    </body>
@@ -61,15 +61,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJadaun&layout=compact&text_color=daf7dc&bg_color=151515)
   
-
-[![Karan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KaranJadaun&theme=xcode)](https://git.io/KaranJadaun)
-                       
 <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right">
 
 
-- 🔭 I’m currently in 2nd year (B.TECH), NIET, Greater Noida.
-- 🌱 I’m currently learning mobile app development. 
+- 🔭 I’m currently in 3rd year (B.TECH), NIET, Greater Noida.
+- 🌱 I’m currently learning Mobile App Development and DSA. 
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I have a basic knowledge of ( Python | Java | MySQL ).
+- 🤔 I have a basic knowledge of ( Python | Java | MySQL | Kotlin).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I read books in extra time.
