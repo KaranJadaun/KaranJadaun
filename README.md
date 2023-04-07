@@ -1,22 +1,20 @@
-<img src="https://github.com/KaranJadaun/KaranJadaun/blob/main/Screenshot%202023-04-07%20192934.png" alt="👋 Hi there! I'm Karan Jadaun" title="👋 Hi there! I'm Karan Jadaun"/>
-<img src="https://github-readme-stats.vercel.app/api?username=KaranJadaun&show_icons=true&theme=tokyonight" align='right' width="55%">
+<img src="https://github.com/KaranJadaun/KaranJadaun/blob/main/karanJadaunBanner.png" alt="👋 Hi there! I'm Karan Jadaun" title="👋 Hi there! I'm Karan Jadaun"/> 
 
+## Hi there, I'm Karan Jadaun
 
-# Hello, I'm Karan Jadaun
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaranJadaun" alt="KaranJadaun" /> </p>
 
-### Hello Fellas, You can follow my social handles from down below :-)
+### You can follow my social handles from down below :-)
+
 LeetCode -> https://www.leetcode.com/karanjadaun22 <br>
 LinkedIn -> https://www.linkedin.com/in/karan-jadaun/ <br>
 Codechef -> https://www.codechef.com/users/karanjadaun22
-                               
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJadaun&layout=compact&text_color=daf7dc&bg_color=151515" align='right' width="35%">
-  
-<!-- <img src="./1_IRFhWNqusUWbTsB1hQXhrQ.gif" alt="coder-boy" width="40%" height="40%" align="right"> -->
 
-- 🔭 I’m currently in 3rd year (B.TECH), NIET, Greater Noida.
-- 🌱 I’m currently learning Mobile App Development and DSA. 
-- 👯 I’m looking to collaborate on open source projects.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranJadaun&layout=compact&text_color=daf7dc&bg_color=151515" align='right' width="35%">
+
+- 🔭 I’m currently making my major app development project.
+- 🌱 I’m currently learning app development and soft skills. 
+- 👯 I’m looking to collaborate on any app development projects.
 - 🤔 I have a basic knowledge of ( Python | Java | MySQL | Kotlin).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I read books in extra time.
+- ⚡ Fun fact: I read books and watch anime in extra time.
