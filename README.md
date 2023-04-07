@@ -1,3 +1,4 @@
+<img src="https://github.com/KaranJadaun/KaranJadaun/blob/main/Screenshot%202023-04-07%20192934.png" alt="👋 Hi there! I'm Karan Jadaun" title="👋 Hi there! I'm Karan Jadaun"/>
 <img src="https://github-readme-stats.vercel.app/api?username=KaranJadaun&show_icons=true&theme=tokyonight" align='right' width="55%">
 
 
