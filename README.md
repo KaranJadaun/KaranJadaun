@@ -1,11 +1,12 @@
 ![](https://github.com/KaranJadaun/KaranJadaun/blob/main/karanJadaunBanner.png?raw=true)
 
 ## Something about me
+
 ```
-I'm looking to collaborate on ideas, thoughts you may have
-I'm currently working on an android application using machine learning
-Ask me about data structures and algorithms, interview preperations
-Fun fact is I do a lot of research
+I'm looking to collaborate on ideas, thoughts you may have :)
+I'm currently working on an android application using machine learning :\
+Ask me about data structures and algorithms, interview preperations :>
+Fun fact is I do a lot of research :}
 ```
 
 ## Want to know me more 
@@ -19,23 +20,8 @@ I'm currently using social media for fun and for collaborations. So, if you want
 - [@karanjadaun22 - Codechef](https://codechef.com/users/karanjadaun22)
 
 ## Skills
-### Technical
 
 ```
-Python, Kotlin, Java, XML, MySQL, Coroutines, Android Jetpack Compose, Room Database, Google Firebase,
-Git, GitHub, Retrofit, API, JSON, Dagger, Lottie Animations, Version Control System.
-```
-
-### Non Technical
-
-```
-Agility, Teamwork, Leadership, Public Speaking, Problem Solving, Adaptability, Flexible,
-Decision Making, Reliability, Self-driven, Fast-paced, Verbal and written communication.
-```
-
-### Others
-
-```
-Android App Development, Data Structures and Algorithms, Scrum, Agile, MVVM, MVP, MVI, Clean
-Architecture, Software Development Lifecycle (SDLC), Debugging, Android SDK.
+Python, Java, Kotlin, XML, MySQL, Android App Development, Data Structures and Algorithms, Google
+Firebase, Git, GitHub
 ```
